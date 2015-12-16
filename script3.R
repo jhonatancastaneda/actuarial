@@ -46,5 +46,3 @@ for (i in 1:length(qx)){
 }
 tabla$R_x <- round(tabla$R_x,digits = 2)
 
-
-
